@@ -6,7 +6,7 @@ import Properties from './pages/Properties';
 import AboutUs from './pages/AboutUs';
 import Contact from './pages/Contact';
 import Login from './pages/Login';
-import SignUp from './pages/Signup';
+import SignUp from './pages/SignUp';
 
 const App = () => {
   return (
